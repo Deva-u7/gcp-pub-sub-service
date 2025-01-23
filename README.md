@@ -1,4 +1,4 @@
-# gcp-pubsub-service
+# gcp-gcp-service
 
 This project demonstrates the integration of Google Cloud Pub/Sub with a Quarkus application using Kotlin.
 The application subscribes to a Pub/Sub topic, processes incoming messages,
